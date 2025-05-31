@@ -1,0 +1,5 @@
+INFO: Démarrage du service
+WARNING: Utilisation mémoire élevée
+ERROR: Connexion échouée à la base de données
+INFO: Requête HTTP reçue
+ERROR: Timeout de la requête
