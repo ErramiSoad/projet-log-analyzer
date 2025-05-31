@@ -15,3 +15,5 @@ def analyser_logs(fichier_log, fichier_rapport):
 
 if __name__ == "__main__":
     analyser_logs("log.txt", "rapport.txt")
+
+print("Analyse terminée")
